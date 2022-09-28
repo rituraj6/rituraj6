@@ -29,10 +29,13 @@
 
 
 
-<p align="left" width="50"><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj6&show_icons=true&locale=en&layout=compact" alt="rituraj6" /></p>
-
-<p align="right">&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=rituraj6&show_icons=true&locale=en" alt="rituraj6" /></p>
-
-<p align="center"><img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj6&" alt="rituraj6" /></p>
+<table>
+<thead>
+<tr>
+<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f2a51b1349a3094df4c0baa468211877191656e892c84641b99e8b2df3d7923/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4861727368616c2d4a61646861762673686f775f69636f6e733d74727565267468656d653d6461726b"><img src="https://camo.githubusercontent.com/9f2a51b1349a3094df4c0baa468211877191656e892c84641b99e8b2df3d7923/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4861727368616c2d4a61646861762673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Ritu_Raj GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rituraj6&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c48779e7cd4950fad9a5c0e1baa8d5f68e2f0acd9a02b1dcf12029ccdaf2db5d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4861727368616c2d4a6164686176267468656d653d6461726b"><img src="https://camo.githubusercontent.com/c48779e7cd4950fad9a5c0e1baa8d5f68e2f0acd9a02b1dcf12029ccdaf2db5d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4861727368616c2d4a6164686176267468656d653d6461726b" alt="Ritu_Raj GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj6&amp;theme=dark" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+</table>
 
 

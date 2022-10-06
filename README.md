@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,SpringBoot,mySql**
 
-- 👨‍💻 All of my projects are available at [rituraj6.github.io/]([rituraj6.github.io/](https://rituraj6.github.io/))
+- 👨‍💻 All of my projects are available at <a href="https://rituraj6.github.io/">rituraj6.github.io/</a>
 
 - 📫 How to reach me **rajvermaritu15@gmail.com**
 
